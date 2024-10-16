@@ -1,0 +1,14 @@
+<section class="head-up"> 
+      <img class="emi" src="image/EMI .png" alt="logo-emi">
+      <div class="div-class-menu">
+        <img class="menu-img" src="image/lists_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg" alt="menu">
+      </div>
+      <div class="img"></div>
+    </section>
+
+
+
+    border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
