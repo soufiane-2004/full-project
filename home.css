@@ -689,4 +689,11 @@ h3 {
     .p-objectifs {
       font-size: 0.9em;
     }
+    .logo {
+      width: 50px;
+      height: 80%;
+      margin-left: 10%;
+      border: none;
+      border-radius: 50%;
+    }
 }
